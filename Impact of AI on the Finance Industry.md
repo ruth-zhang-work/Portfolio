@@ -1,4 +1,4 @@
-#Impact of AI on the Finance Industry
+## Impact of AI on the Finance Industry
 
 Artificial intelligence (AI) is rapidly reshaping industries, and the structure of the global finance industry is also changing, with financial sector spending on AI projected to reach $97 billion by 2027 (Kearns, 2023). The role of AI in finance is growing, with applications across all areas of the industry, including in customer service chatbots and algorithmic trading (Ranković et al., 2023). As the application and future development of AI is underway, considering the benefits and drawbacks of these technologies is imperative to understanding the impact of AI on the industry as well as wider society.
 
@@ -8,11 +8,16 @@ The benefits of AI are not without drawbacks, and in addition to human resistanc
 
 It can be seen that AI is and will continue to impact the finance sector, creating multi-dimensional benefits for clients, workers and organisations. At the same time, insufficient regulation and strategies to manage AI may have detrimental impacts on the industry and its customers, and potentially cause more widespread issues in the global economy.
 
-References
+\
+*<ins>References</ins>*
 
-Evans, T. (2024). How AI And Blockchain Are Solving Each Other’s Biggest Challenges. [online] Forbes. Available at: https://www.forbes.com/sites/tonyaevans/2024/10/29/how-ai-and-blockchain-are-solving-each-others-biggest-challenges/.
-Kearns, J. (2023). AI’s Reverberations across Finance. [online] International Monetary Fund. Available at: https://www.imf.org/en/Publications/fandd/issues/2023/12/AI-reverberations-across-finance-Kearns.
-Maple, C., Staykova, K., Wang, Z., Szpruch, L., Epiphaniou, G., Singh, S., Penwarden, W., Wen, Y., Hariharan, J. and Avramovic, P. (2024). The AI Revolution: Opportunities and Challenges for the Finance Sector. [online] Available at: https://www.turing.ac.uk/sites/default/files/2024-11/the_ai_revolution_-_opportunities_and_challenges_for_the_finance_sector_-_report_1.pdf.
-Ranković, M., Gurgu, E., Martins, O.M.D. and Vukasović, M. (2023). Artificial intelligence and the evolution of finance: opportunities, challenges and ethical considerations. EdTech Journal, [online] 3(1), pp.20–23. doi:https://doi.org/10.18485/edtech.2023.3.1.2.
-Vuković, D.B., Dekpo-Adza, S. and Matović, S. (2025). AI integration in financial services: a systematic review of trends and regulatory challenges. Humanities and Social Sciences Communications, [online] 12(1). doi:https://doi.org/10.1057/s41599-025-04850-8.
+*Evans, T. (2024). How AI And Blockchain Are Solving Each Other’s Biggest Challenges. [online] Forbes. Available at: https://www.forbes.com/sites/tonyaevans/2024/10/29/how-ai-and-blockchain-are-solving-each-others-biggest-challenges/.*
+
+*Kearns, J. (2023). AI’s Reverberations across Finance. [online] International Monetary Fund. Available at: https://www.imf.org/en/Publications/fandd/issues/2023/12/AI-reverberations-across-finance-Kearns.*
+
+*Maple, C., Staykova, K., Wang, Z., Szpruch, L., Epiphaniou, G., Singh, S., Penwarden, W., Wen, Y., Hariharan, J. and Avramovic, P. (2024). The AI Revolution: Opportunities and Challenges for the Finance Sector. [online] Available at: https://www.turing.ac.uk/sites/default/files/2024-11/the_ai_revolution_-_opportunities_and_challenges_for_the_finance_sector_-_report_1.pdf.*
+
+*Ranković, M., Gurgu, E., Martins, O.M.D. and Vukasović, M. (2023). Artificial intelligence and the evolution of finance: opportunities, challenges and ethical considerations. EdTech Journal, [online] 3(1), pp.20–23. doi:https://doi.org/10.18485/edtech.2023.3.1.2.*
+
+*Vuković, D.B., Dekpo-Adza, S. and Matović, S. (2025). AI integration in financial services: a systematic review of trends and regulatory challenges. Humanities and Social Sciences Communications, [online] 12(1). doi:https://doi.org/10.1057/s41599-025-04850-8.*
 
