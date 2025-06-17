@@ -1,3 +1,5 @@
+## Guide to Effective Prompting
+
 Effective prompting is key to utilising AI to its full potential, and producing desired results efficiently. The most effective prompts ensure that the questions of ‘what?’, ‘why?’ and ‘how?’ are answered, identifying the key information such as the task, aims, audience and execution. Frameworks to guide prompting exist and may be utilised best under varying scenarios.
 
 Basic prompting involves detailing the task and expected outcome, answering the question of ‘what?’. Frameworks such as AIM (action, intent, milestone) and  FIT (focus, input, task) may fall into this category, and do best with shorter, clear cut tasks that may have a limited set of solutions and outcomes, or that don’t require specific solution paths.
