@@ -1,5 +1,4 @@
 ## Guide to Effective Prompting
-### Ruth Zhang
 
 Effective prompting is key to utilising AI to its full potential, and producing desired results efficiently. The most effective prompts ensure that the questions of ‘what?’, ‘why?’ and ‘how?’ are answered, identifying the key information such as the task, aims, audience and execution. Frameworks to guide prompting exist and may be utilised best under varying scenarios.
 
