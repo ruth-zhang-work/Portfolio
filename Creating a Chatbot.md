@@ -4,4 +4,4 @@ Chatbot for the below CV:
 
 [Chatbot link](https://www.chatbase.co/chatbot-iframe/yRCOGf6xyoIZCGKreX8_H)
 
-<object data="cv-example.pdf" width="1000" height="1000" type='application/pdf'/>
+[CV example](https://github.com/ruth-zhang-work/Portfolio/blob/1762ded7e01c6998e8c5392721dc2f501bb6eaad/cv-example.pdf)
